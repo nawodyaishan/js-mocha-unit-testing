@@ -1,1 +1,1 @@
-# js-unit-testing
+# JavaScript Unit Testing Mocha
